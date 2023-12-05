@@ -1,0 +1,15 @@
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/bin/Debug/net7.0/Pyramid.cs
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/bin/Debug/net7.0/Pyramid.cs.deps.json
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/bin/Debug/net7.0/Pyramid.cs.runtimeconfig.json
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/bin/Debug/net7.0/Pyramid.cs.dll
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/bin/Debug/net7.0/Pyramid.cs.pdb
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.csproj.AssemblyReference.cache
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.AssemblyInfoInputs.cache
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.AssemblyInfo.cs
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.csproj.CoreCompileInputs.cache
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.dll
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/refint/Pyramid.cs.dll
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.pdb
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/Pyramid.cs.genruntimeconfig.cache
+/Users/truitt/Documents/code/Pyramid.cs/Pyramid.cs/obj/Debug/net7.0/ref/Pyramid.cs.dll
